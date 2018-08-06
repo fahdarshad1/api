@@ -1,7 +1,13 @@
- ## Question
- 
- <!-- Go ahead, ask -->
- 
-  ## What do you do?
- 
- <!-- Optional, let us know what you are working on, to help us understand your question better -->
+---
+name: Question
+about: use this for questions on how to use the APIs
+
+---
+
+## Question
+
+<!-- Tell us, what is your question? -->
+
+## Background
+
+<!-- Optional, give us some info on what you are working on. This will help us figuring out the best answer -->
